@@ -1,7 +1,7 @@
-# Pranjal Rawat
+# Hi I'm Pranjal Rawat!
 
 # Experience
-# Research & Development Intern at EdMotion
+## Research & Development Intern at EdMotion
 
 Employment Type: Internship
 Dates: June 2024 – November 2024
@@ -15,7 +15,7 @@ ________________________________________________________________________________
 
 # Projects
 
-# Notivet
+## Notivet
 
 Technologies: React, TypeScript, Next.js API Routes, Prisma ORM, PostgreSQL
 Dates: July 2025
@@ -26,7 +26,7 @@ Dates: July 2025
 - Designed an interactive drug database with advanced filtering, search, and save functionality.
 ______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-# FilmFinder
+## FilmFinder
 
 Technologies: Python, Requests, OMDB API, Google Gemini API, Streamlit
 Dates: September 2025
@@ -37,7 +37,7 @@ Dates: September 2025
 - Visualized data using interactive charts and dashboards with Plotly and Streamlit components.
 ______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-# MednCare
+## MednCare
 
 Technologies: Python, ReactJS, Google Gemini API, JavaScript, CSS, Chart.js
 Dates: November 2025
