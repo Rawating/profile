@@ -1,6 +1,6 @@
 # Pranjal Rawat
 
-#Experience
+# Experience
 Research & Development Intern at EdMotion
 
 Employment Type: Internship
@@ -16,3 +16,5 @@ Location: Fuquay-Varina, North Carolina, United States
 - Drafted a $50,000 NSF SBIR grant, aligning technical research outcomes with funding priorities and market viability.
 
 - Collaborated with engineers, educators, and mental health professionals to prototype and refine MR experiences for usability and effectiveness.
+
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
